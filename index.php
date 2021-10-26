@@ -1,0 +1,1 @@
+<?PHP HEADER ("location:/index.html") ; ?>
